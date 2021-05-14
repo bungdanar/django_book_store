@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\danar\\.virtualenvs\\django_book_store-MvssXkQq\\Scripts\\python.exe",
+    "python.languageServer": "Pylance",
+    "files.associations": {
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+    "emmet.includeLanguages": {"django-html": "html"},
+    "python.linting.enabled": true,
+    "python.formatting.provider": "autopep8",
+}
